@@ -97,5 +97,3 @@ class CaptureScreen(QWidget):
 
         return pick_rect
 
-    def save_image(self):
-        self.capture_image.save('picture.png', quality=95)  # 保存图片到当前文件夹中
