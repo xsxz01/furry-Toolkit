@@ -1,4 +1,3 @@
-import win32clipboard as w
 from PyQt5.QtWidgets import QApplication, QWidget
 from PyQt5.QtCore import Qt, qAbs, QRect
 from PyQt5.QtGui import QPen, QPainter, QColor, QGuiApplication
