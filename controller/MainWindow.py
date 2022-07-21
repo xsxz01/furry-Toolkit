@@ -2,7 +2,6 @@ from PyQt5.QtCore import pyqtSlot, pyqtSignal
 from PyQt5.QtGui import QPixmap, QKeySequence
 from PyQt5.QtWidgets import QMainWindow, QShortcut, QMessageBox
 from system_hotkey import SystemHotkey
-from system_hotkey.keysymdef import keysyms
 
 from controller.CaptureScreen import CaptureScreenWindow
 from view import UI_MainWindow
